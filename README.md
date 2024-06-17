@@ -4,7 +4,7 @@
 ![Top Langs](https://getusetprofile.vercel.app/api/top-langs/?username=QI-XIANG&layout=compact&hide=jupyter%20notebook,HTML&theme=vue-dark)
 [![QIXIANG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QIXIANG)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Leetcode Stats](https://leetcode.card.workers.dev/?username=QI-XIANG)](https://leetcode.com/QI-XIANG)-->
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">A Passionate Developer from Taiwan</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/qi-xiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qi-xiang" height="30" width="40" /></a>
